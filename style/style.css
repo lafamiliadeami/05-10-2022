@@ -1,0 +1,8 @@
+.bg-light{
+    justify-content: center;
+    display: flex;
+}
+
+.bg-light .g-5{
+    margin-left: 300px;
+}
